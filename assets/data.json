@@ -1,0 +1,35 @@
+[
+    {
+        "name" : "I.T Solution",
+        "description" : "this website is designed for the people who are interested in technology field and want a website to get there work done easily.",
+        "img" : "assets/img/desicat-it-solution-and-business-services-website-template_187843-original.jpg",
+        "price" : "$ 15.99./",
+        "incart" : 1,
+        "id" : 0
+        } ,
+        {
+            "name" : "I.T Solution2",
+            "description" : "this website is designed for the people who are interested in technology field and want a website to get there work done easily.",
+            "img" : "assets/img/tax-services-onepage-website-template.jpg",
+            "price" :"$ 25.39./",
+            "incart" : 1,
+            "id" : 1
+        },
+        {
+            "name" : "I.T Solution2",
+            "description" : "this website is designed for the people who are interested in technology field and want a website to get there work done easily.",
+            "img" : "assets/img/atomic-free-template.jpg",
+            "price" :"$ 28.71./",
+            "incart" : 1,
+            "id" : 2
+        },
+        {
+            "name" : "I.T Solution2",
+            "description" : "this website is designed for the people who are interested in technology field and want a website to get there work done easily.",
+            "img" : "assets/img/ecogreen-colorlib-template.jpg",
+            "price" :"$ 36.12./",
+            "incart" : 1,
+            "id" : 3
+    }
+
+]
