@@ -37,7 +37,7 @@ for(i = 0; i < products.length; i++) {
 function removeItem() {
     btn = document.getElementsByClassName('remove');
     for(i = 0; i < btn.length; i++) {
-        btn[i].addEventListener('click' , function(e) {
+        btn[i].addEventListener('click' , function remove(e) {
            btnClicked = e.currentTarget.parentElement;
            let number = btnClicked.childNodes[5].innerText
            let items = localStorage.getItem('cartItems');
