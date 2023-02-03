@@ -98,6 +98,9 @@ for(i = 0; i < Decrease.length; i++) {
     products = JSON.parse(products);
     let product = products[span];
     product.incart--;
+      if(incart<1){
+      remove();
+      }
     Incart = product.incart;
     btnClicked.childNodes[3].innerText = Incart;
     products = JSON.stringify(products);
